@@ -17,7 +17,7 @@ var rand = letterOptions[Math.floor(Math.random() * letterOptions.length)];
 
 //user input would either match or not match computer letter
 
-//computer recognizes letter as correct(win) or wront(loose)
+//computer recognizes letter as correct(win) or wrong(loose)
 
 //if wrong, computer shows how many guesses are left and decrease amount of guesses left
 
